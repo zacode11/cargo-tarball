@@ -25,7 +25,7 @@ stager = "0.3.4"
 globwalk = "0.7"
 tempfile = "3.0"
 
-liquid = "0.16"
+liquid = "0.26.11"
 cargo_metadata = "0.6"
 
 env_logger = "0.6"
